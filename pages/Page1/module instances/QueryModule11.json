@@ -1,0 +1,30 @@
+{
+  "packageUUID": "aa8ba5a8-1f8c-4ba7-8754-063949dc4679",
+  "moduleUUID": "418f22a4-63ba-4cea-81e2-3959ef9fe3f3",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "version": "0.0.1",
+    "name": "QueryModule11",
+    "contextType": "PAGE",
+    "pageId": "Page1",
+    "inputs": {
+      "input1": "11"
+    },
+    "moduleInputs": {
+      "aesfzhlsvt": {
+        "id": "aesfzhlsvt",
+        "label": "input1",
+        "propertyName": "inputs.input1",
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "1"
+      }
+    },
+    "jsonPathKeys": [],
+    "isValid": true,
+    "invalids": [],
+    "userPermissions": []
+  },
+  "id": "Page1_QueryModule11",
+  "deleted": false,
+  "gitSyncId": "66744dab460698006f9d98b4_916830b6-d14b-44e0-b679-388d615c467e"
+}
